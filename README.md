@@ -1,2 +1,2 @@
-# python-homework
+# 課後作業
 MyclassHomework
