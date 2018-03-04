@@ -6,4 +6,4 @@ KNN</br>
 SVM</br>
 貝氏分類器</br>
 </br>
-* 各種回歸演算法
+* 透過sklearn中的鳶尾花的dataset練習各種分類演算法</br>
