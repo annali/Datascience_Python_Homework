@@ -28,7 +28,22 @@
 <h6>》》》Elastic Net</h6>
 <h6>》》》K折交叉驗證 (K-fold Cross-Validation) + 學習曲線 (Learning Curve)</h6>
 <h6>》》》產生高次方項</h6>
+<p>&nbsp;</p>
 
+
+<h3>Week2：<strong><span style="color: #0000ff;">W2-Homework-02-台北市房價分析</span></strong></h3>
+<h4>演算法：KNNRegressor</h4>
+<h6>》》》KNNRegressor</h6>
+<h6>》》》K折交叉驗證 (K-fold Cross-Validation) + 學習曲線 (Learning Curve)</h6>
+<h6>》》》畫決策邊界 - 單一Feature可使用</h6>
+<h6>》》》校調k值-uniform</h6>
+<h6>》》》調整weights - distance</h6>
+<h4>演算法：SVM Regressor</h4>
+<h6>》》》SVM Regressor</h6>
+<h6>》》》三種kernel比較(可tune C、degree) - 單一Feature可使用</h6>
+<h4>演算法：迴歸樹</h4>
+<h6>》》》迴歸樹</h6>
+<h6>》》》K折交叉驗證 (K-fold Cross-Validation) + 學習曲線 (Learning Curve)</h6>
 
 <h2>Week3：</h2>
 <h2>Week4：</h2>
