@@ -6,6 +6,18 @@
 <p>&nbsp;</p>
 <h2><strong>課後作業：</strong></h2>
 <h3>Week1：<strong><span style="color: #0000ff;">台北市房價分析</span></strong></h3>
+<h3>演算法：簡單線性迴歸 -1 Feature</h3>
+<h5>》》》SGDRegressor</h5>
+<h5>》》》LinearRegression</h5>
+<h5>》》》K折交叉驗證 (K-fold Cross-Validation) + 學習曲線 (Learning Curve)</h5>
+<h3>演算法：多變項線性迴歸 -5 Features</h3>
+<h5>》》》SGDRegressor</h5>
+<h5>》》》LinearRegression</h5>
+<h5>》》》K折交叉驗證 (K-fold Cross-Validation) + 學習曲線 (Learning Curve)</h5>
+<h3>演算法：多項式(Polynomial) 非線性迴歸 -1 Feature</h3>
+<h5>》》》LinearRegression-產生高次方項</h5>
+
+<h3>Week2：<strong><span style="color: #0000ff;">台北市房價分析</span></strong></h3>
 <h3 id="4-2.簡單線性迴歸-使用Scikit-Learn-LinearRegression" style="padding-left: 90px;"><span style="color: #ff0000;">演算法：簡單線性迴歸 -1 Feature</span></h3>
 <h5 id="4-1.簡單線性迴歸-使用Scikit-Learn-SGDRegressor" style="padding-left: 120px;">》》》SGDRegressor</h5>
 <h5 id="4-2.簡單線性迴歸-使用Scikit-Learn-LinearRegression" style="padding-left: 120px;">》》》LinearRegression</h5>
@@ -16,6 +28,9 @@
 <h5 style="padding-left: 120px;">》》》K折交叉驗證 (K-fold Cross-Validation) + 學習曲線 (Learning Curve)</h5>
 <h3 id="6.多項式(Polynomial)-非線性迴歸" style="padding-left: 90px;"><span style="color: #ff0000;">演算法：多項式(Polynomial) 非線性迴歸 -1 Feature</span></h3>
 <h5 id="4-2.簡單線性迴歸-使用Scikit-Learn-LinearRegression" style="padding-left: 120px;">》》》LinearRegression-產生高次方項</h5>
+
+
+
 <h2>Week2：</h2>
 <h2>Week3：</h2>
 <h2>Week4：</h2>
