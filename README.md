@@ -6,15 +6,9 @@
 <p>&nbsp;</p>
 <h2><strong>課後作業：</strong></h2>
 <p>Week1：台北市房價分析</p>
-<p>&nbsp;</p>
 <p>Week2：</p>
-<p>&nbsp;</p>
 <p>Week3：</p>
-<p>&nbsp;</p>
 <p>Week4：</p>
-<p>&nbsp;</p>
 <p>Week5：</p>
-<p>&nbsp;</p>
 <p>Week6：</p>
-<p>&nbsp;</p>
 <p>Week7：</p>
