@@ -16,7 +16,7 @@
 <h6>》》》K折交叉驗證 (K-fold Cross-Validation) + 學習曲線 (Learning Curve)</h6>
 <h4>演算法：多項式(Polynomial) 非線性迴歸 -1 Feature</h4>
 <h6>》》》LinearRegression-產生高次方項</h6>
-
+<p>&nbsp;</p>
 <h3>Week2：<strong><span style="color: #0000ff;">W2-Homework-01-台北市房價分析</span></strong></h3>
 <h4>演算法：簡單線性迴歸 -1 Feature</h4>
 <h6>》》》SGDRegressor</h6>
