@@ -10,7 +10,7 @@
 <h6>》》》SGDRegressor</h6>
 <h6>》》》LinearRegression</h6>
 <h6>》》》K折交叉驗證 (K-fold Cross-Validation) + 學習曲線 (Learning Curve)</h6>
-<h6>演算法：多變項線性迴歸 -5 Features</h6>
+<h4>演算法：多變項線性迴歸 -5 Features</h4>
 <h6>》》》SGDRegressor</h6>
 <h6>》》》LinearRegression</h6>
 <h6>》》》K折交叉驗證 (K-fold Cross-Validation) + 學習曲線 (Learning Curve)</h6>
