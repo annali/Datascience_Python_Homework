@@ -52,17 +52,19 @@
 <h6>》》》KNN</h6>
 <h6>》》》準確度 & 混淆矩陣</h6>
 <h6>》》》視覺化混淆矩陣函式</h6>
-<h6>》》》K折交叉驗證 (K-fold Cross-Validation) + 學習曲線 (Learning Curve</h6>
+<h6>》》》K折交叉驗證 (K-fold Cross-Validation) + 學習曲線 (Learning Curve)</h6>
 <h4>演算法：決策分類樹</h4>
 <h6>》》》決策分類樹</h6>
 <h6>》》》產生決策樹的圖片</h6>
 <h6>》》》準確度預測</h6>
 <h6>》》》特徵重要性</h6>
-<h6>》》》K折交叉驗證 (K-fold Cross-Validation) + 學習曲線 (Learning Curve</h6>
+<h6>》》》K折交叉驗證 (K-fold Cross-Validation) + 學習曲線 (Learning Curve)</h6>
 <h4>演算法：SVM</h4>
 <h6>》》》SVM</h6>
 <h4>演算法：貝式分類器</h4>
 <h6>》》》貝式分類器</h6>
+<p>&nbsp;</p>
+
 
 <h2>Week3：</h2>
 <h2>Week4：</h2>
