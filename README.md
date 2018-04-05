@@ -5,7 +5,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2><strong>課後作業：</strong></h2>
-<p>Week1：台北市房價分析</p>
+<p>Week1：台北市房價分析 - 使用線性迴歸完成此份作業</p>
 <p>Week2：</p>
 <p>Week3：</p>
 <p>Week4：</p>
