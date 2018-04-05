@@ -44,6 +44,11 @@
 <h4>演算法：迴歸樹</h4>
 <h6>》》》迴歸樹</h6>
 <h6>》》》K折交叉驗證 (K-fold Cross-Validation) + 學習曲線 (Learning Curve)</h6>
+<p>&nbsp;</p>
+
+
+<h3>Week2：<strong><span style="color: #0000ff;">W2 Homework-03-專題分析-預測鳶尾花品種</span></strong></h3>
+<h4>演算法：KNN</h4>
 
 <h2>Week3：</h2>
 <h2>Week4：</h2>
