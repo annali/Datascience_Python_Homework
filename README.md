@@ -26,7 +26,6 @@
 <h6>》》》產生高次方項</h6>
 <h4>演算法：Linear Regression With L1 的正規化</h4>
 <h6>》》》LASSO</h6>
-<h6>》》》LinearRegression</h6>
 <h6>》》》K折交叉驗證 (K-fold Cross-Validation) + 學習曲線 (Learning Curve)</h6>
 <h6>》》》產生高次方項</h6>
 <h4>演算法：Linear Regressuin With Both 正規化</h4>
