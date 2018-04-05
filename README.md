@@ -1,6 +1,6 @@
 <h1><strong>機器學習與深度學習實作課後作業與學習摘要</strong></h1>
 <p>&nbsp;</p>
-<h2><strong>課程摘要：</strong></h2>
+<h2><strong>課程筆記：</strong></h2>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
