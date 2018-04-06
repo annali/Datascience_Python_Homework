@@ -97,9 +97,11 @@
 <h3>Week4：<strong><span style="color: #0000ff;">W4 Homework-01-PCA 降維</span></strong></h3>
 <h4>演算法：PCA降維</h4>
 <h6>》》》降維</h6>
-
+<h3>Week4：<strong><span style="color: #0000ff;">W4 Homework-02-MLP-Keras</span></strong></h3>
+<h4>演算法：Deep Learning - Keras</h4>
+<h6>》》》降維</h6>
 <p>&nbsp;</p>
 
-<h2>Week5：</h2>
+
 <h2>Week6：</h2>
 <h2>Week7：</h2>
