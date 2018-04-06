@@ -99,7 +99,7 @@
 <h6>》》》降維</h6>
 <h3>Week4：<strong><span style="color: #0000ff;">W4 Homework-02-MLP-Keras</span></strong></h3>
 <h4>演算法：Deep Learning - Keras</h4>
-<h6>》》》降維</h6>
+<h6>》》》Keras</h6>
 <p>&nbsp;</p>
 
 
