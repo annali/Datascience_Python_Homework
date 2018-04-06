@@ -1,5 +1,4 @@
 <h1><strong>機器學習與深度學習實作課後作業</strong></h1>
-<p>&nbsp;</p>
 <h2><strong>課後作業：</strong></h2>
 <h3>Week1：<strong><span style="color: #0000ff;">W1-Homework-台北市房價分析</span></strong></h3>
 <h4>演算法：簡單線性迴歸 -1 Feature</h4>
@@ -75,6 +74,17 @@
 <h6>》》》隨機森林(Random Forest)</h6>
 <h4>演算法：AdaBoost</h4>
 <h6>》》》AdaBoost</h6>
+
+<h3>Week3：<strong><span style="color: #0000ff;">W3 Homework-02-專題分析</span></strong></h3>
+<h4>演算法：K-means</h4>
+<h6>》》》K-means</h6>
+<h4>演算法：階層式分群</h4>
+<h6>》》》階層式分群</h6>
+<h4>演算法：DBSCAN</h4>
+<h6>》》》DBSCAN</h6>
+
+
+
 
 <h2>Week4：</h2>
 <h2>Week5：</h2>
