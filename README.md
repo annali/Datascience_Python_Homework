@@ -74,17 +74,25 @@
 <h6>》》》隨機森林(Random Forest)</h6>
 <h4>演算法：AdaBoost</h4>
 <h6>》》》AdaBoost</h6>
+<p>&nbsp;</p>
 
 <h3>Week3：<strong><span style="color: #0000ff;">W3 Homework-02-專題分析</span></strong></h3>
 <h4>演算法：K-means</h4>
 <h6>》》》K-means</h6>
+<h6>》》》輪廓圖分析</h6>
+<h6>》》》輪廓係數 (Silhoutte Coefficient)</h6>
+<h6>》》》輪廓圖</h6>
+<h6>》》》tuning k</h6>
 <h4>演算法：階層式分群</h4>
 <h6>》》》階層式分群</h6>
+<h6>》》》凝聚分層分群 by Scikit-Learn</h6>
+<h6>》》》階凝聚分層分群&階層樹狀圖 by Scipy</h6>
 <h4>演算法：DBSCAN</h4>
 <h6>》》》DBSCAN</h6>
-
-
-
+<h6>》》》一般圓狀</h6>
+<h6>》》》甜甜圈形</h6>
+<h6>》》》半月形</h6>
+<p>&nbsp;</p>
 
 <h2>Week4：</h2>
 <h2>Week5：</h2>
