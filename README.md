@@ -102,6 +102,18 @@
 <h6>》》》Keras</h6>
 <p>&nbsp;</p>
 
+<h3>Week5：<strong><span style="color: #0000ff;">W5 Homework-01-Classification with Keras MLP</span></strong></h3>
+<h4>演算法：Deep Learning - Keras</h4>
+<h6>》》》Classifier & Tuning hyperparameters</h6>
+<h6>》》》Keras + sklearn Kfold</h6>
+<p>&nbsp;</p>
+
+<h3>Week5：<strong><span style="color: #0000ff;">W5 Homework-02-Overfitting 提早結束</span></strong></h3>
+<h4>演算法：Deep Learning - Keras</h4>
+<h6>》》》Early Stopping</h6>
+<h6>》》》Regularization</h6>
+<h6>》》》Dropout</h6>
+<p>&nbsp;</p>
 
 <h2>Week6：</h2>
 <h2>Week7：</h2>
