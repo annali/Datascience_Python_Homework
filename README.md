@@ -66,7 +66,16 @@
 <p>&nbsp;</p>
 
 
-<h2>Week3：</h2>
+<h3>Week3：<strong><span style="color: #0000ff;">W3 Homework-01-專題分析-預測離職率</span></strong></h3>
+<h4>演算法：VotingClassifier</h4>
+<h6>》》》VotingClassifier</h6>
+<h4>演算法：Bagging</h4>
+<h6>》》》Bagging</h6>
+<h4>演算法：隨機森林(Random Forest)</h4>
+<h6>》》》隨機森林(Random Forest)</h6>
+<h4>演算法：AdaBoost</h4>
+<h6>》》》AdaBoost</h6>
+
 <h2>Week4：</h2>
 <h2>Week5：</h2>
 <h2>Week6：</h2>
