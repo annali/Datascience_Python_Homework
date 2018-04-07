@@ -97,19 +97,21 @@
 <h3>Week4：<strong><span style="color: #0000ff;">W4 Homework-01-PCA 降維</span></strong></h3>
 <h4>演算法：PCA降維</h4>
 <h6>》》》降維</h6>
+<p>&nbsp;</p>
+
 <h3>Week4：<strong><span style="color: #0000ff;">W4 Homework-02-MLP-Keras</span></strong></h3>
-<h4>演算法：Deep Learning - Keras</h4>
+<h4>Deep Learning - Keras</h4>
 <h6>》》》Keras</h6>
 <p>&nbsp;</p>
 
 <h3>Week5：<strong><span style="color: #0000ff;">W5 Homework-01-Classification with Keras MLP</span></strong></h3>
-<h4>演算法：Deep Learning - Keras</h4>
+<h4>Deep Learning - Keras</h4>
 <h6>》》》Classifier & Tuning hyperparameters</h6>
 <h6>》》》Keras + sklearn Kfold</h6>
 <p>&nbsp;</p>
 
 <h3>Week5：<strong><span style="color: #0000ff;">W5 Homework-02-Overfitting 提早結束</span></strong></h3>
-<h4>演算法：Deep Learning - Keras</h4>
+<h4>Deep Learning - Keras</h4>
 <h6>》》》Early Stopping</h6>
 <h6>》》》Regularization</h6>
 <h6>》》》Dropout</h6>
@@ -121,4 +123,12 @@
 <h6>》》》Max-pooling layer</h6>
 <h6>》》》softmax & prediction</h6>
 <h6>》》》混淆矩陣 (Confusion Matrix)</h6>
+<p>&nbsp;</p>
+
+<h3>Week5：<strong><span style="color: #0000ff;">W5 Homework-04-RNN & LSTM for Climate Change</span></strong></h3>
+<h4>演算法：Deep Learning - RNN</h4>
+<h6>》》》產生序列(X)對序列(Y)</h6>
+<h6>》》》SimpleRNN</h6>
+<h6>》》》LSTM</h6>
+<h6>》》》MLP</h6>
 <p>&nbsp;</p>
