@@ -115,5 +115,10 @@
 <h6>》》》Dropout</h6>
 <p>&nbsp;</p>
 
-<h2>Week6：</h2>
-<h2>Week7：</h2>
+<h3>Week5：<strong><span style="color: #0000ff;">W5 Homework-03-CNN for MNIST</span></strong></h3>
+<h4>演算法：Deep Learning - CNN</h4>
+<h6>》》》Convolution layer</h6>
+<h6>》》》Max-pooling layer</h6>
+<h6>》》》softmax & prediction</h6>
+<h6>》》》混淆矩陣 (Confusion Matrix)</h6>
+<p>&nbsp;</p>
