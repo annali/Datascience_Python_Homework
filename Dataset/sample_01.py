@@ -42,7 +42,7 @@ for i in range(len(df)):
     df.loc[i,'交易年'] = round(df.loc[i,'交易年月日']/10000)
 
 
-print(i)
+#print(i)
 
 from datetime import datetime
 now = datetime.now()
@@ -57,7 +57,6 @@ corr = df[['總價元','鄉鎮市區','建物型態','都市土地使用分區',
            '建物現況格局-房','建物現況格局-廳','建物現況格局-衛','車位移轉總面積平方公尺','車位總價元','屋齡','建築完成年','交易年']].corr()
 
 
-plt.rcParams['font.family']='SimHei' #顯示中文
 plt.figure(figsize=(10,10))
 sns.heatmap(corr, square=True, annot=True)
 plt.show()
